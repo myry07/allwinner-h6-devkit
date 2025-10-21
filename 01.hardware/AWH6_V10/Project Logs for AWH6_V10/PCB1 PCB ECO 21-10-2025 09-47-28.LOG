@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=PL8 Pin=U2-H22
+Added Pin To Net: NetName=PL8 Pin=U34-5
+Added Net: Name=PL8
+Added Pin To Net: NetName=PL10 Pin=U2-H21
+Added Pin To Net: NetName=PL10 Pin=U34-4
+Added Net: Name=PL10
+Added Pin To Net: NetName=S_UART_RX Pin=U2-J20
+Added Pin To Net: NetName=S_UART_RX Pin=U34-2
+Added Net: Name=S_UART_RX
+Added Pin To Net: NetName=S_UART_TX Pin=U2-K22
+Added Pin To Net: NetName=S_UART_TX Pin=U34-1
+Added Net: Name=S_UART_TX

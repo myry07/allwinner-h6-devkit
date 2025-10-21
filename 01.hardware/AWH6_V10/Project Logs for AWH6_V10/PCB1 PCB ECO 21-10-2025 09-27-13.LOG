@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TWIO_SCL Pin=U2-R5
+Removed Pin From Net: NetName=TWIO_SDA Pin=U2-U3
+Added Pin To Net: NetName=TWIO_SDA Pin=U2-R5
+Added Pin To Net: NetName=TWIO_SCL Pin=U2-U3
