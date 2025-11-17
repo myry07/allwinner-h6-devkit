@@ -257,6 +257,10 @@ DocumentUniqueId=AOMAKBUO
 DocumentPath=Project Outputs for AWH6_V10\BGA Escape Route - PCB1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AWH6_V10\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
